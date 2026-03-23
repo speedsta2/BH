@@ -45,19 +45,6 @@ Minimal resource usage for smoother gameplay.
 
 ---
 
-## 📥 Installation
-
-1. Copy the script loader.
-2. Paste it into your executor.
-3. Run the script.
-4. Enjoy BelenHub.
-
-```lua
-loadstring(game:HttpGet("YOUR_SCRIPT_LINK_HERE"))()
-```
-
----
-
 ## ⭐ Why Choose BelenHub?
 
 * Reliable performance
