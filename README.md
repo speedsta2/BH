@@ -1,6 +1,9 @@
 # 🌟 BelenHub
 
-> **Highly Efficient • Fully Working • Tested Scripts for Roblox**
+> **Highly Efficient • Fully Working • Tested Scripts for Roblox
+
+❌ **= Script currently not working**
+✅ **= Script working and fully supported****
 
 ---
 
@@ -38,9 +41,7 @@ Minimal resource usage for smoother gameplay.
 
 ## 📜 Supported Games
 
-* Universal Scripts
-* Popular Roblox Experiences
-* Training / Practice Modes
+* Blade Ball ✅
 * More coming soon...
 
 ---
